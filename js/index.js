@@ -141,13 +141,13 @@ function compareVerbs(){
           wordCount : evalLength,
           nouns : evalNouns.length,
           adjectives : evalAdjectives.length,
-          verbs : evalVerbs.length,
+          verbs : evalVerbs.length
         },
       Common :
       {
-          commonNouns : similarNouns.length,
-          commonAdjectives : similarAdjectives.length,
-          commonVerbs : similarVerbs.length
+          nouns : similarNouns.length,
+          adjectives : similarAdjectives.length,
+          verbs : similarVerbs.length
       }
     
     }

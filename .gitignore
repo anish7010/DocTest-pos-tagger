@@ -2,3 +2,4 @@ data.json
 package-lock.json
 package.json
 /node_modules
+npm-debug.log

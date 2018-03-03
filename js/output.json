@@ -12,8 +12,8 @@
     "verbs": 174
   },
   "Common": {
-    "commonNouns": 602,
-    "commonAdjectives": 112,
-    "commonVerbs": 111
+    "nouns": 602,
+    "adjectives": 112,
+    "verbs": 111
   }
 }

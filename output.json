@@ -1,11 +1,19 @@
 {
-  "Standard": {
-    "wordCount": 3570,
-    "nouns": 411
-  },
-  "Eval": {
-    "wordCount": 3422,
-    "nouns": 480,
-    "commonNouns": 202
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
